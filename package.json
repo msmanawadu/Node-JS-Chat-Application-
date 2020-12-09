@@ -1,0 +1,27 @@
+{
+  "name": "node-js-chat-application-",
+  "version": "1.0.0",
+  "description": "chat app developed using node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msmanawadu/Node-JS-Chat-Application-.git"
+  },
+  "keywords": [
+    "chat",
+    "app"
+  ],
+  "author": "MS Manawadu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msmanawadu/Node-JS-Chat-Application-/issues"
+  },
+  "homepage": "https://github.com/msmanawadu/Node-JS-Chat-Application-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
